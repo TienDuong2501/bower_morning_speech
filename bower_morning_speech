@@ -1,0 +1,17 @@
+{
+  "name": "bower_morning_speech",
+  "version": "1.0.1",
+  "authors": [
+    "Tien Duong <tienduong250196@gmail.com>"
+  ],
+  "description": "Framgia standard demo Bower",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/TienDuong2501/bower_morning_speech.git",
+  "ignore": [
+    "README.md"
+  ]
+}
